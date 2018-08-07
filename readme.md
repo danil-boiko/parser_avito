@@ -1,1 +1,1 @@
-Парсер предложений на телефоны htc на авито
+Parcer of sentences for avito
